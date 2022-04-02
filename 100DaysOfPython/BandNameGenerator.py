@@ -1,6 +1,6 @@
-print("What city are you from?\n")
+print("What city are you from?")
 city = input("> ")
-print("What's your favourite animal?\n")
+print("What's your favourite animal?")
 animal = input("> ")
 BandName = city+" "+animal
 print(f"Your band name is {BandName}")
