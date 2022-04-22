@@ -29,5 +29,5 @@ while result != chosen_word and stages != []:
     print("You win! Game over!")
   elif stages == []:
     print("You lose! Game over!")
-    print(f"The correct word is {chosen_word}")
+    print(f"The correct word is {chosen_word}.")
 
